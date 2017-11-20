@@ -1,6 +1,6 @@
 <scheme name="zc1415926" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9933" />
@@ -43,9 +43,19 @@
         <option name="ERROR_STRIPE_COLOR" value="526da5" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b5acff" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff5959" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f447" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">

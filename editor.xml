@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="YaHei Consolas Hybrid" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
